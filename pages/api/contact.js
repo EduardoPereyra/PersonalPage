@@ -22,7 +22,7 @@ async function handler(req, res) {
       message,
     };
 
-    const connectionString = `mongodb+srv://${process.env.mongodb_username}:${process.env.mongodb_password}@${process.env.mongodb_clustername}.svdxxya.mongodb.net/?retryWrites=true&w=majority`;
+    const connectionString = `mongodb+srv://${process.env.mongodb_username}:${process.env.mongodb_password}@${process.env.mongodb_clustername}.mrdrnll.mongodb.net/?retryWrites=true&w=majority`;
 
     let client;
     try {
