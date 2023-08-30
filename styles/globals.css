@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto&family=Source+Sans+Pro:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto&family=Source+Sans+Pro:wght@300&display=swap");
 
 * {
   box-sizing: border-box;
@@ -16,14 +16,14 @@ body {
   --color-grey-800: hsl(276, 5%, 20%);
   --color-grey-900: hsl(280, 5%, 13%);
 
-  --color-primary-50: #c8b3ce;
-  --color-primary-100: #a07aaa;
-  --color-primary-200: #884c97;
-  --color-primary-300: #843897;
-  --color-primary-400: #732392;
-  --color-primary-500: #5a097a;
-  --color-primary-600: #480264;
-  --color-primary-700: #3d0264;
+  --color-primary-50: #bdb9d2;
+  --color-primary-100: #a7a1c3;
+  --color-primary-200: #928ab4;
+  --color-primary-300: #7c72a4;
+  --color-primary-400: #665b95;
+  --color-primary-500: #504386;
+  --color-primary-600: #3a2c77;
+  --color-primary-700: #241468;
 
   --color-success-100: #a2f0bc;
   --color-success-500: #12bd4b;
@@ -45,13 +45,13 @@ body {
   margin: 0;
   background-color: var(--color-grey-500);
   color: #252525;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 h1,
 h2,
 h3 {
-  font-family: 'Oswald', 'Roboto', sans-serif;
+  font-family: "Oswald", "Roboto", sans-serif;
 }
 
 a {

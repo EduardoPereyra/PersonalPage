@@ -14,8 +14,7 @@ function Hero(props) {
       </div>
       <h1>Hi, I'm Eduardo</h1>
       <p>
-        I'm a web developer - especially frontend frameworks like Angular and
-        React
+        I'm a web developer - specialized in frameworks like Angular and React
       </p>
     </section>
   );
