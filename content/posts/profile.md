@@ -10,13 +10,19 @@ date: "2023-8-30"
 
 I consider myself a very responsible and proactive person, with ease of learning and adaptation to new proposals at the work level. I have great skills in handling computer tools, as well as ease in using mathematics and English. Good attitude towards teamwork and individual work. Angular Developer with 4+ years of experience. Skilled in SCSS, Ionic Framework, Typescript, and Agile Methodologies
 
-### Education
+### :books: Education
 
 - University Technician in Computer Applications Development, UNICEN. _(2018 - 2021)_
 
 - Bilingual Bachelor in Economics and Administration. _(2003 - 2016)_
 
-### Skills
+### :speech_balloon: Languages
+
+:es: Spanish -- _Native speaker_
+
+:us: English -- _Highly proficient_
+
+### :pushpin: Skills
 
 | **Skill**       | **Level**   |
 | --------------- | ----------- |
@@ -30,13 +36,7 @@ I consider myself a very responsible and proactive person, with ease of learning
 | SCRUM           | Experienced |
 | RxJS            | Skillfull   |
 
-### Languages
-
-:es: Spanish -- _Native speaker_
-
-:us: English -- _Highly proficient_
-
-### Work Experiences
+### :computer: Work Experiences
 
 ```js
 const frontend_developer = "Metalabs";
